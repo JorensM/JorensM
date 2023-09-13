@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there 👋 I'm Jorens
+
+Hi! My name is Jorens, I'm from Latvia and I'm a coder/writer/musician/artist.
+
+I'm currently working on my top secret freelance projects, as well as some personal open-source
+projects:
+ * [react-tab-state]() - a React library that allows you to sync state across tabs
+ * [react-context-menu]() - a React library that simplifies the creation of right-click context menus
+ * [daily-planner]() - a web app that helps you track your tasks
 
 <!--
 **JorensM/JorensM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
