@@ -44,7 +44,12 @@ You can ask me about absolutely anything!
 
 You can reach me by 
   * **Email** - [jorensmerenjanu@gmail.com](mailto:jorensmerenjanu@gmail.com)
-  * **Discord** - 
+  * **Discord** - jorensm
+  * **LinkedIn** - [jorens-merenjanu](https://www.linkedin.com/in/jorens-merenjanu-70195b217)
+
+## Fun fact:
+
+I like tacos
 
 <!--
 **JorensM/JorensM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
