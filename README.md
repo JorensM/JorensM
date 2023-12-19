@@ -16,6 +16,7 @@ My main stack is **TypeScript**, **React**, **Node.js** (4 years of experience),
 
   * **PHP** - [2 years]
   * **WordPress** - [2 years]
+  * **Java** - [2 years]
   * **Laravel** - [1 year]
   * **Next.js** - [1 year]
   * **Golang** - [1 year]
