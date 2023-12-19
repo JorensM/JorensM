@@ -23,11 +23,11 @@ My main stack is **TypeScript**, **React**, **Node.js** (4 years of experience),
 
 ## What I'm learning
 
-Currently I'm learning [Deno](https://deno.com/), a popular alternative to Node.js. It's pretty cool!
+Currently I'm learning piano.
 
 ## What I'd like to collaborate on
 
-I would like to collaborate on non-profit projects
+I would like to collaborate on non-profit and open-source projects
 
 ## What I'm looking for help with
 
