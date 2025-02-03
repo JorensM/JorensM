@@ -14,8 +14,8 @@ projects:
 
 My main stack is **TypeScript**, **React**, **Node.js** (4 years of experience), but besides that I have experience with -
 
-  * **PHP** - [2 years]
-  * **WordPress** - [2 years]
+  * **PHP** - [4 years]
+  * **WordPress** - [3 years]
   * **Java** - [2 years]
   * **Laravel** - [1 year]
   * **Next.js** - [1 year]
